@@ -1,0 +1,176 @@
+Uri: https://eu-west-2.graphassets.com/cm8596v4300s008l8c03sbv7n/cm50glw0z2rr007php6nm7mf4
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\cm8596v4300s008l8c03sbv7n\bangladeshFlag-1.png
+Content Type: image/png
+
+Uri: https://eu-west-2.graphassets.com/cm8596v4300s008l8c03sbv7n/cm5atkou247j507pqm2zrudhq
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\cm8596v4300s008l8c03sbv7n\logo-1.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/bdtEn
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\bdtEn.html
+Content Type: text/html
+
+Uri: https://www.jeetbuzzaff.com/bdtEn/live-event
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\bdtEn\live-event-1.html
+Content Type: text/html
+
+Uri: https://www.jeetbuzzaff.com/cashrush.jpg
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\cashrush.jpg
+Content Type: image/jpeg
+
+Uri: https://www.jeetbuzzaff.com/favicon.ico
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://www.jeetbuzzaff.com/ipl.jpg
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\ipl.jpg
+Content Type: image/jpeg
+
+Uri: https://www.jeetbuzzaff.com/live-event/live-event-one-mobile.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\live-event\live-event-one-mobile-1.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/_next/image?url=%2Flive-event%2Fweekly-winner-bg.jpeg&w=1920&q=75&dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\weekly-winner-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.jeetbuzzaff.com/_next/image?url=%2Flive-event%2Fweekly-winner-bg.jpeg&w=3840&q=75&dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\weekly-winner-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/332-c52a747cb74d9cf7.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\332-c52a747cb74d9cf7-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/385cb88d-731ebb2d996bd1f4.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\385cb88d-731ebb2d996bd1f4-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/3d47b92a-e5cd4f571604550c.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\3d47b92a-e5cd4f571604550c-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/4bd1b696-f7083ef5688de2f1.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\4bd1b696-f7083ef5688de2f1-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/517-39abb4ea9dc35292.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\517-39abb4ea9dc35292-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/5e22fd23-1b25f7a45a0033ca.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\5e22fd23-1b25f7a45a0033ca.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/632-7ad7831f61e29964.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\632-7ad7831f61e29964-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/699-c26e9d06014c50f2.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\699-c26e9d06014c50f2-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/771-59fc1da6632086cb.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\771-59fc1da6632086cb.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/8e1d74a4-5abe0927493f82c9.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\8e1d74a4-5abe0927493f82c9.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/923-1135ba84b4c504a4.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\923-1135ba84b4c504a4-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/94730671-5bede81ab3e2a669.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\94730671-5bede81ab3e2a669.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/9c4e2130-09e24e934fd24ced.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\9c4e2130-09e24e934fd24ced-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/app/[locale]/layout-f903fcb02a7a6ec3.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\app\[locale]\layout-f903fcb02a7a6ec3-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/app/[locale]/live-event/page-284b3a1c180b81c5.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\app\[locale]\live-event\page-284b3a1c180b81c5-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/app/[locale]/page-f83ad18278adedb9.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\app\[locale]\page-f83ad18278adedb9.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/c916193b-4e882c650f4cc671.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\c916193b-4e882c650f4cc671-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/e34aaff9-4ca0d1b13ce9cd25.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\e34aaff9-4ca0d1b13ce9cd25.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/main-app-239fc0cc716759c7.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\main-app-239fc0cc716759c7-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\polyfills-42372ed130431b0a-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/chunks/webpack-7d6bd1543adbd485.js?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\chunks\webpack-7d6bd1543adbd485-1.js
+Content Type: application/javascript
+
+Uri: https://www.jeetbuzzaff.com/_next/static/css/11663eb5ca3c6d95.css?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\css\11663eb5ca3c6d95-1.css
+Content Type: text/css
+
+Uri: https://www.jeetbuzzaff.com/_next/static/css/661e90584160d7c0.css?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\css\661e90584160d7c0.css
+Content Type: text/css
+
+Uri: https://www.jeetbuzzaff.com/_next/static/css/a2efefdb2644f776.css?dpl=dpl_BptKrbPAxfhgT7eohPfsNUEkBMjz
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\css\a2efefdb2644f776-1.css
+Content Type: text/css
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/affi1.a58fbfcf.webp
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\affi1.a58fbfcf.webp
+Content Type: image/webp
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/affi2.5bb224e4.webp
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\affi2.5bb224e4.webp
+Content Type: image/webp
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/fb.59f94a28.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\fb.59f94a28.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/fb2.e80aa3d9.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\fb2.e80aa3d9.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/tg.20550314.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\tg.20550314.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/tlg2.d8b396ba.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\tlg2.d8b396ba.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/wa.fdd079ce.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\wa.fdd079ce.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/wa2.63249d81.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\wa2.63249d81.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/yt.491f0bd4.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\yt.491f0bd4.png
+Content Type: image/png
+
+Uri: https://www.jeetbuzzaff.com/_next/static/media/yt2.831901c3.png
+File Name: C:\Users\NS-LIMON\OneDrive\Documents\www.jeetbuzzaff.com\www.jeetbuzzaff.com\_next\static\media\yt2.831901c3.png
+Content Type: image/png
+
